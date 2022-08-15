@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Derek. I have a passion or what some would call an obsession for everything cloud engineering, software development, and cool tech.
+
+I'm currently working on Software Development using AWS, Azure and GCP Cloud based services.  Focusing on DevOps CI/CD methodology for Cloud Deployments.
+
+![Docmeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=docmeir&show_icons=true&theme=radical)
+
 <!--
 **Docmeir/docmeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
