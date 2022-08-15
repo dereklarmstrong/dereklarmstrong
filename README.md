@@ -4,6 +4,8 @@ My name is Derek. I have a passion or what some would call an obsession for ever
 
 I'm currently working on Software Development using AWS, Azure and GCP Cloud based services.  Focusing on DevOps CI/CD methodology for Scalable Cloud Deployments.
 
+If you would like to know more check out my [Personal Website](https://derek.orcafam.com)
+
 ![Docmeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=docmeir&show_icons=true&theme=radical)
 
 <!--
