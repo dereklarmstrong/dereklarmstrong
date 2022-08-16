@@ -1,13 +1,13 @@
-![Hey!](https://media3.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif)
+👋 Hey there!
 
 My name is Derek. I have a passion or what some would call an obsession for everything Cloud Engineering, Software Development, and Cool Tech.
 
-I'm currently working on Software Development using AWS, Azure and GCP Cloud based services.  Focusing on DevOps CI/CD methodology for Scalable Cloud Deployments.
+I'm currently working on Software Development using AWS, Azure and GCP Cloud based services.  Focusing on DevOps CI/CD methodology for Scalable Cloud Deployments. 🚀☁
 
-If you would like to know more check out my [Personal Website](https://derek.orcafam.com)
+If you would like to know more check out my [Personal Website 🛰](https://derek.orcafam.com) 
 
 ![Docmeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=docmeir&show_icons=true&theme=radical)
-
+![Snake animation](https://github.com/Docmeir/docmeir/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Docmeir/docmeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
