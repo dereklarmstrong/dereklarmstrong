@@ -2,7 +2,7 @@
 
 My name is Derek. I have a passion or what some would call an obsession for everything Cloud Engineering, Software Development, and Cool Tech.
 
-I'm currently working on Software Development projects utilizing AWS, Azure and GCP Cloud based services.  Focusing on DevOps CI/CD methodology for Scalable Cloud Deployments. 🚀☁
+I'm currently working on Software Development projects utilizing AWS, Azure and GCP Cloud based services.  Focusing on DevOps CI/CD methodology in Scalable Cloud Deployments. 🚀☁
 
 If you would like to know more check out my [Personal Website 🛰](https://derek.orcafam.com) 
 
