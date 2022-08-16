@@ -1,6 +1,6 @@
 👋 Hey there!
 
-My name is Derek. I have a passion or what some would call an obsession for everything Cloud Engineering, Software Development, and Cool Tech.  As well as automating anything I can.  Be it projects or just life's daily tasks.  Truly love hitting the "easy button" and watching it do the work for you.  Reminiscent of a [Rube Goldberg Machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine).  If you can dream it, you can build it!
+My name is Derek. I have a passion or what some would call an obsession for everything Cloud Engineering, Software Development, and Cool Tech.  As well as automating anything I can.  Be it projects or just life's daily tasks.  I truly love being able to hit the "🔴 easy button" and watching it do the work for you.  Reminiscent of a [Rube Goldberg Machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine) 🤯.  If you can dream it 💭, you can build it 🛠!
 
 I'm currently working on Software Development projects utilizing AWS, Azure and GCP Cloud based services.  Focusing on DevOps CI/CD methodology in Scalable Cloud Deployments. 🚀☁
 
