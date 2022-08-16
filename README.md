@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hey!](https://media3.giphy.com/media/dw36yjtOAtuSZyxEJG/giphy.gif)
 
 My name is Derek. I have a passion or what some would call an obsession for everything Cloud Engineering, Software Development, and Cool Tech.
 
