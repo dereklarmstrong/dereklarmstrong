@@ -1,12 +1,13 @@
 👋 Hey there!
 
-My name is Derek. I have a passion or what some would call an obsession for everything Cloud Engineering, Software Development, and Automation. Be it projects or just daily tasks.  I truly love being able to hit the "big red easy button" 🔴  Reminiscent of a [Rube Goldberg Machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine).  My motto is, if you can dream it 💭, you can build it 🛠!
+I have a passion for everything Cloud Engineering, Software Development, and Automation. Be it projects or just daily tasks.  I truly love being able to hit the "big red easy button" 🔴
 
-I'm currently working on Software Development projects utilizing AWS, Azure and GCP Cloud based services.  Focusing on DevOps CI/CD methodology in Scalable Cloud Deployments. 🚀☁
+My motto is, if you can dream it, you can build it.
+
+I'm currently working on Software Development projects utilizing Python, Bash, TCL and AWS Cloud Services.  Focusing on Agile CI/CD methodology in Scalable Cloud Deployments. 🚀☁
 
 If you would like to know more or connect:
-- [🛰 Personal Website](https://derek.orcafam.com)
-<!-- - [💼 LinkedIn Profile](https://www.linkedin.com/in/dereklarmstrong/) -->
+- [🛰 Personal Website](https://docmeir.orcafam.com)
 
 ![Docmeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=docmeir&show_icons=true&theme=radical)
 ![Snake animation](https://github.com/Docmeir/docmeir/blob/output/github-contribution-grid-snake.svg)
