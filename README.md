@@ -1,6 +1,6 @@
 👋 Hey there!
 
-I have a passion for everything Cloud Engineering, Software Development, and Automation. Be it projects or just daily tasks.  I truly love being able to hit the "big red easy button" 🔴
+I have a passion for everything Software Development, Architecture, Automation and Cloud Engineering. Be it projects or just daily tasks.  I truly love being able to hit the "big red easy button" 🔴
 
 My motto is, if you can dream it, you can build it.
 
