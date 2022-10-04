@@ -7,7 +7,7 @@ My motto is, if you can dream it, you can build it.
 I'm currently working on Software Development projects using languages such as Python, Bash, TCL, Ruby and Java.  Utilizing Cloud Services were it makes sense while keeping platform agnositic to be able to move with the market.  Focusing on Agile CI/CD methodology in Scalable Cloud Deployments. 🚀☁
 
 If you would like to know more or connect:
-- [🛰 Personal Website](https://docmeir.orcafam.com)
+- [🛰 Personal Website](https://docmeir.github.io)
 
 ![Docmeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=docmeir&show_icons=true&theme=radical)
 ![Snake animation](https://github.com/Docmeir/docmeir/blob/output/github-contribution-grid-snake.svg)
