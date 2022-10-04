@@ -1,10 +1,8 @@
 👋 Hey there!
 
-I have a passion for everything Software Development, Automation, Self-Hosting and Cloud Engineering. Be it projects or just daily tasks.  I truly love being able to hit the "big red easy button" 🔴.  I also love Self-Hosting services either locally or on cloud providers like AWS, Azure or GCP.
+I am a software developer with a passion for cooking, drones and exploring nature.  I also enjoy working on anything invovling Software Development, Automation, Self-Hosting or Cloud Engineering. Be it work, personal projects or just daily tasks I'm automating. I truly love being able to hit the "big red easy button" 🔴.  It's the spirit of inovation and birthplace of ideas.
 
 My motto is, if you can dream it, you can build it.
-
-I'm currently working on Software Development projects using languages such as Python, Bash, TCL, Ruby and Java.  Utilizing Cloud Services were it makes sense while keeping platform agnositic to be able to move with the market.  Focusing on Agile CI/CD methodology in Scalable Cloud Deployments. 🚀☁
 
 If you would like to know more or connect:
 - [🛰 Personal Website](https://docmeir.github.io)
