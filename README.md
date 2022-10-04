@@ -1,6 +1,7 @@
 👋 Hey there!
 
-I am a software developer with a passion for cooking, drones and exploring nature.  I also enjoy working on anything invovling Software Development, Automation, Self-Hosting or Cloud Engineering. Be it work, personal projects or just daily tasks I'm automating. I truly love being able to hit the "big red easy button" 🔴.  It's the spirit of inovation and birthplace of ideas.
+I am a software developer with a passion for cooking, drones and exploring nature.  I also enjoy working on anything invovling Software Development, Automation, Self-Hosting or Cloud Engineering. Be it work, personal projects or just daily tasks I'm automating. I truly love being able to hit the "big red easy button" 🔴.  It's the spirit of innovation and birthplace of ideas.
+
 
 My motto is, if you can dream it, you can build it.
 
@@ -24,6 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-If you feel I have contributed something to your projects.  A coffee is greatly appreciated.  I do this in my free time to help others in the community.
+If you feel I have contributed something to your projects.
 
 [Buy me a coffee](https://buymeacoffee.com/docmeir)
