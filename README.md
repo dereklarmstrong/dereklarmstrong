@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+If you feel I have contributed something to your projects.  A coffee is greatly appreciated.  I do this in my free time to help others in the community.
+
+[Buy me a coffee](https://buymeacoffee.com/docmeir)
