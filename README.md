@@ -6,7 +6,7 @@ I am a software developer with a passion for cooking, drones and exploring natur
 My motto is, if you can dream it, you can build it.
 
 If you would like to know more or connect:
-- [🛰 Personal Website](https://docmeir.github.io)
+- [🛰 Personal Website](https://docs.dereklarmstrong.com/)
 
 ![Docmeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklarmstrong&show_icons=true&theme=radical)
 ![Snake animation](https://github.com/Docmeir/docmeir/blob/output/github-contribution-grid-snake.svg)
