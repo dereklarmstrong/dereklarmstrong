@@ -1,6 +1,6 @@
 👋 Hey there!
 
-I am a software developer with a passion for cooking, drones and exploring nature.  I also enjoy working on anything invovling Software Development, Automation, Self-Hosting or Cloud Engineering. Be it work, personal projects or just daily tasks I'm automating. I truly love being able to hit the "big red easy button" 🔴.  It's the spirit of innovation and birthplace of ideas.
+I am a software developer with a passion for cooking, tech and exploring nature.  I also enjoy working on anything invovling Software Development, Automation, Self-Hosting or Cloud Engineering. Be it work, personal projects or just daily tasks I'm automating.  It's the spirit of innovation and birthplace of ideas.
 
 
 My motto is, if you can dream it, you can build it.
@@ -10,6 +10,8 @@ If you would like to know more or connect:
 
 ![Docmeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklarmstrong&show_icons=true&theme=radical)
 ![Snake animation](https://github.com/Docmeir/docmeir/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **Docmeir/docmeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
