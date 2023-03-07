@@ -1,9 +1,6 @@
-👋 Hey there!
+Hi there! 👋
 
-I am a software developer with a passion for cooking, tech and exploring nature.  I also enjoy working on anything invovling Software Development, Automation, Self-Hosting or Cloud Engineering. Be it work, personal projects or just daily tasks I'm automating.  It's the spirit of innovation and birthplace of ideas.
-
-
-My motto is, if you can dream it, you can build it.
+I'm a software developer with a passion for cooking, cool tech and exploring nature. I enjoy working on anything involving Software Development, Cloud Engineering or Robotics. Be it work, personal projects or just tinkering, I find the creative process of building something from scratch to be incredibly rewarding.
 
 If you would like to know more or connect:
 - [🛰 Personal Website](https://docs.dereklarmstrong.com/)
