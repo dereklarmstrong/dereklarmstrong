@@ -6,7 +6,6 @@ If you would like to know more or connect:
 - [🛰 Personal Website](https://docs.dereklarmstrong.com/)
 
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklarmstrong&show_icons=true&theme=radical)
-![Derek's GitHub Work stats](https://github-readme-stats.vercel.app/api?username=da250326&show_icons=true&theme=radical)
 
 <!--
 **Docmeir/docmeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
