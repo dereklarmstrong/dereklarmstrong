@@ -1,18 +1,9 @@
 Hi there! 👋
 
-I'm a software developer with a passion for cooking, cool tech and exploring nature. Always open to expanding my skills and knowledge through work and personal projects or just tinkering. I find the creative process of building something from idea to reality to be incredibly rewarding.
+I'm a software developer with a passion for exploring the intersection of technology, finance, and nature. I find the creative process of building something from idea to reality to be incredibly rewarding. When I'm not coding, I love experimenting in the kitchen and exploring the great outdoors.
 
-Development Focuses:
-- Python
-- Azure Cloud Services
-- Fintech
-- Data Science
-- Machine Learning
+My development focuses include Python, Azure Cloud Services, Fintech, Data Science, and Machine Learning. I'm always eager to expand my skills and knowledge through work and personal projects, and I'm always open to collaboration and new opportunities.
 
-If you would like to know more or connect:
-- [🛰 https://blog.dereklarmstrong.com](https://blog.dereklarmstrong.com/)
-
-
-If you feel I have contributed something to your projects and want to [Buy me a coffee](https://buymeacoffee.com/docmeir).
+If you're interested in learning more or connecting with me, check out my blog at https://blog.dereklarmstrong.com.
 
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklarmstrong&show_icons=true&theme=radical)
