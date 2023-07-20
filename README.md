@@ -5,4 +5,4 @@ I'm a software developer with a passion for exploring the intersection of techno
 My development focuses include Python, .NET, Azure Cloud Services, Fintech, Data Science, and AI. I'm always eager to expand my skills and knowledge through work and personal projects.  
 
 I'm always open to collaboration and new opportunities.  
-If you're interested in learning more or connecting with me, check out my blog at https://derek.orcafam.com.
+If you're interested in learning more or connecting with me, check out my blog at https://dereklarmstrong.com.
