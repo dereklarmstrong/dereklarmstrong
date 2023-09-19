@@ -1,8 +1,24 @@
-Hi there! 👋
 
-I'm a software developer with a passion for exploring the intersection of technology, finance, and nature. I find the creative process of building something from idea to reality to be incredibly rewarding. When I'm not coding, I love experimenting in the kitchen and exploring the great outdoors.
+👋 **Hey there, I'm Derek!**
 
-My development focuses include Python, .Net, Fintech, Data Science, Azure and AWS. I'm always eager to expand my skills and knowledge through work and personal projects.  
+🖥️ **About Me:**
+- I'm a **Full Stack Software Engineer** with a profound interest in the confluence of **technology, finance, and environmental sustainability**.
+- I thrive on the challenge of transforming innovative concepts into tangible, functional products.
+- Away from the screen, I'm either concocting a new recipe in my kitchen or embracing the serenity of nature.
 
-I'm always open to collaboration and new opportunities.  
-If you're interested in learning more or connecting with me, check out my blog at https://dereklarmstrong.com.
+🚀 **Tech Stack & Expertise:**
+- **Languages & Frameworks:** Python, .Net, SQL, PowerShell, Bash, HTML, CSS, JavaScript, C#, Java
+- **Specializations:** Architecture, DevOps, Fintech, Data Science, Machine Learning, Cloud Computing
+- **Cloud Platforms:** Azure, AWS, GCP
+
+🌱 **Growth Mindset:**
+- Continual learning is core to my ethos. I'm perpetually expanding my toolkit, both in professional contexts and through eclectic personal projects.
+
+💡 **Collaborate with Me:**
+- If you're seeking a passionate developer, a sounding board for an idea, or a collaborator on an exciting venture, I'd love to connect.
+- Remember, if you can envision it, together, we can construct it.
+
+📫 **Connect with Me:**
+- [LinkedIn]([#](https://www.linkedin.com/in/dereklarmstrong/)) | [Twitter]([#](https://twitter.com/Docmeir42)) | [Portfolio](https://dereklarmstrong.com)
+
+Thank you for stopping by. Excited for the paths our digital journeys might cross!
