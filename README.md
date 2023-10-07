@@ -19,6 +19,6 @@
 - Remember, if you can envision it, together, we can construct it.
 
 📫 **Connect with Me:**
-- [LinkedIn](https://www.linkedin.com/in/dereklarmstrong/) | [Twitter](https://twitter.com/Docmeir42) | [Portfolio](https://dereklarmstrong.com)
+- [LinkedIn](https://www.linkedin.com/in/dereklarmstrong/) | [Twitter](https://twitter.com/Docmeir42) | [Blog](https://dereklarmstrong.com)
 
 Thank you for stopping by. Excited for the paths our digital journeys might cross!
