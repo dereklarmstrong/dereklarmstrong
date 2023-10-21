@@ -1,24 +1,25 @@
-
-👋 **Hey there, I'm Derek!**
+👋 **Hi, I'm Derek!**
 
 🖥️ **About Me:**
-- I'm a **Full Stack Software Engineer** with a profound interest in the confluence of **technology, finance, and environmental sustainability**.
-- I thrive on the challenge of transforming innovative concepts into tangible, functional products.
-- Away from the screen, I'm either concocting a new recipe in my kitchen or embracing the serenity of nature.
+- I'm a **Full Stack Software Engineer** who's keen on blending **services, technology, and finance with a splash of creativity**.
+- Love turning cool ideas into working products.
+- When not coding, I'm either trying a new recipe or enjoying nature.
 
 🚀 **Tech Stack & Expertise:**
-- **Languages & Frameworks:** Python, .Net, SQL, PowerShell, Bash, HTML, CSS, JavaScript, C#, Java
-- **Specializations:** Architecture, DevOps, Fintech, Data Science, Machine Learning, Cloud Computing
+- **Languages & Frameworks:** Python, SQL, .Net, C++, HTML, CSS, JavaScript, C#, Java, TCL, Bash, PowerShell
+- **Specializations:** Architecture, Development, Cloud DevOps, Fintech, Machine Learning
 - **Cloud Platforms:** Azure, AWS, GCP
 
 🌱 **Growth Mindset:**
-- Continual learning is core to my ethos. I'm perpetually expanding my toolkit, both in professional contexts and through eclectic personal projects.
+- I believe in constant learning to improve my skills in work and personal projects.
+- My favorite quote is "If you improve just %1 a day, that's 365% a year."
 
 💡 **Collaborate with Me:**
-- If you're seeking a passionate developer, a sounding board for an idea, or a collaborator on an exciting venture, I'd love to connect.
-- Remember, if you can envision it, together, we can construct it.
+- Looking for a dedicated developer or a partner for a new project? Let's connect.
+- If you can dream it, we can build it together.
 
 📫 **Connect with Me:**
 - [Blog](https://dereklarmstrong.com)
+- [GitHub](https://github.com/dereklarmstrong)
 
-Thank you for stopping by. Excited for the paths our digital journeys might cross!
+Thank you for visiting. Looking forward to crossing paths in the digital world!
