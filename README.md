@@ -1,10 +1,10 @@
 👋 **Hey, I'm Derek!**
 
-I'm your go-to guy for turning tech ideas into reality. Tech's my playground – from crafting code to mastering the cloud. I love unraveling tech puzzles and believe in multiple paths to a solution. It's not just about fixing things; it's about finding the smartest way to do it. 
+I'm your go-to guy for turning tech ideas into reality. Tech's my playground – from architectural designs, crafting code or deploying at scale in the cloud. I love unraveling tech puzzles and believe in multiple paths to a solution. It's not just about building or fixing things; it's about finding the best way to do it. 
 
 🛠 **What's My Jam:**
-- Staying on top of the latest tech trends, tools and cloud advancements
-- Combining trusted tech with new ideas for something awesome.
+- Staying on top of the latest trends in development, tools and cloud advancements.
+- Combining trusted battle tested tech with new ideas for something awesome.
 - Experimenting in my home labs
 
 📢 **Let's Connect:**
