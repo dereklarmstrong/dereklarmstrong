@@ -13,6 +13,7 @@ I'm your go-to guy for turning tech ideas into reality. Tech's my playground –
 Got a tech puzzle or just want to chat about the latest in tech? Swing by my site or hit me up on socials. Let's talk tech and make things happen!
 
 ---
+![](https://komarev.com/ghpvc/?username=dereklarmstrong&label=views)
 [![Follow Me](https://img.shields.io/github/followers/dereklarmstrong?label=Follow&style=social)](https://github.com/dereklarmstrong)
 
 
