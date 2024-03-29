@@ -91,8 +91,8 @@ Got a tech puzzle or just want to chat about the latest in tech? Swing by my sit
   <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="30px"/>
   <img alt="Sonicwall" src="https://img.shields.io/badge/Sonicwall-FF6600?style=for-the-badge&logo=sonicwall&logoColor=white" height="30px"/>
 </p>
+<br>
 
-<br><br>
 ## 🤩 **GitHub:**
 
 <div align="center">
