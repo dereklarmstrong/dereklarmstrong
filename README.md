@@ -23,7 +23,13 @@ I'm your go-to guy for turning tech ideas into reality. Tech's my playground –
 
 Got a tech puzzle or just want to chat about the latest in tech? Swing by my site or hit me up on socials. Let's talk tech and make things happen!
 
-<p><a href="https://pytech.dev/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/PyTech.Dev-006600.svg?&style=for-the-badge&logo=python&logoColor=white" height="30px" /></a> <a href="https://twitter.com/dereklarmstrong" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/dereklarmstrong/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://dereklarmstrong.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/dereklarmstrong" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p>
+  <a href="https://dereklarmstrong.com/" target="_blank"><img alt="DerekLArmstrong.com" src="https://img.shields.io/badge/DerekLArmstrong.com-005c99?style=for-the-badge&logo=githubpages&logoColor=white"  height="30px"/>
+  <a href="https://pytech.dev/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/PyTech.Dev-cccc00.svg?&style=for-the-badge&logo=python&logoColor=white" height="30px" /></a>
+  <a href="https://twitter.com/dereklarmstrong" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
+  <a href="https://www.linkedin.com/in/dereklarmstrong/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+  <a href="https://www.instagram.com/dereklarmstrong" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+  <a href="https://www.threads.net/@dereklarmstrong" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Threads-1a1a1a?style=for-the-badge&logo=threads&logoColor=white"  height="30px"/></a>
 </p>
 
 <!-- ### 🛠️ **Technologies and Tools I Use:**
@@ -48,7 +54,7 @@ Got a tech puzzle or just want to chat about the latest in tech? Swing by my sit
 <br>
 <p><b><i>If you work together and communicate, there are less conflicts</b></i></p>
 <br>
-<img src="./imgs/git-merge.gif" width="450px>
+<img src="./imgs/git-merge.gif" width="490px">
 <br>
 </div>
 
