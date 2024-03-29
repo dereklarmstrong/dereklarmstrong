@@ -22,4 +22,14 @@ Got a tech puzzle or just want to chat about the latest in tech? Swing by my sit
 *If you work together and communicate, there are less conflicts*
 
 ![Engineering](imgs/git-merge.gif) 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflareworkers/cloudflareworkers-original-wordmark.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" height="100px" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original-wordmark.svg" height="100px" width="100px"/>
+
+
+
 </div>
