@@ -25,11 +25,12 @@ Got a tech puzzle or just want to chat about the latest in tech? Swing by my sit
 
 <p>
   <a href="https://dereklarmstrong.com/" target="_blank"><img alt="DerekLArmstrong.com" src="https://img.shields.io/badge/DerekLArmstrong.com-005c99?style=for-the-badge&logo=githubpages&logoColor=white"  height="30px"/>
-  <a href="https://pytech.dev/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/PyTech.Dev-cccc00.svg?&style=for-the-badge&logo=python&logoColor=white" height="30px" /></a>
-  <a href="https://twitter.com/dereklarmstrong" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
+  <a href="https://pytech.dev/" target="_blank"><img alt="PyTech.com" src="https://img.shields.io/badge/PyTech.Dev-cccc00.svg?&style=for-the-badge&logo=python&logoColor=white" height="30px" /></a>
   <a href="https://www.linkedin.com/in/dereklarmstrong/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
   <a href="https://www.instagram.com/dereklarmstrong" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-  <a href="https://www.threads.net/@dereklarmstrong" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Threads-1a1a1a?style=for-the-badge&logo=threads&logoColor=white"  height="30px"/></a>
+  <a href="https://www.facebook.com/dereklarmstrong" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/></a>
+  <a href="https://www.threads.net/@dereklarmstrong" target="_blank"><img alt="Threads" src="https://img.shields.io/badge/Threads-101010?style=for-the-badge&logo=threads&logoColor=white"  height="30px"/></a>
+  <a href="https://twitter.com/dereklarmstrong" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
 </p>
 
 <!-- ### 🛠️ **Technologies and Tools I Use:**
