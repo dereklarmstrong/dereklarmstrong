@@ -1,15 +1,13 @@
 # 👋 **Hey, I'm Derek!**
 
+<img alt="Views" src="https://komarev.com/ghpvc/?username=dereklarmstrong&label=views">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/dereklarmstrong">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dereklarmstrong">
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/dereklarmstrong">
 
-<div align="right">
+<div align="left">
 
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=dereklarmstrong&label=views">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereklarmstrong">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dereklarmstrong">
-  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/dereklarmstrong">
-
-<img  src="./imgs/working-and-creating.gif" height="300px" align="right" />
-<br>
+  <img  src="./imgs/working-and-creating.gif" height="300px" align="right" />
 </div>
 
 
@@ -41,7 +39,7 @@ Got a tech puzzle or just want to chat about the latest in tech? Swing by my sit
 <br>
 <p><b><i>If you work together and communicate, there are less conflicts</b></i></p>
 <br>
-<img src="imgs/git-merge.gif" width="450px>
+<img src="./imgs/git-merge.gif" width="450px>
 <br>
 </div>
 
