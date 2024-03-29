@@ -46,8 +46,8 @@ Got a tech puzzle or just want to chat about the latest in tech? Swing by my sit
 
 <div align="center">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dereklarmstrong&show_icons=true"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dereklarmstrong&" alt="dereklarmstrong"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dereklarmstrong&show_icons=true" height="150px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dereklarmstrong&" alt="dereklarmstrong" height="150px"/>
 
 </div>
 
