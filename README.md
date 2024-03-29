@@ -1,4 +1,4 @@
-# 👋 **Hey, I'm Derek!**
+## 👋 **Hey, I'm Derek!**
 
 <div align="left">
   <img alt="Views" src="https://komarev.com/ghpvc/?username=dereklarmstrong&label=views">
