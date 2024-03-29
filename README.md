@@ -1,12 +1,12 @@
 # 👋 **Hey, I'm Derek!**
 
+<div align="left">
 <img alt="Views" src="https://komarev.com/ghpvc/?username=dereklarmstrong&label=views">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereklarmstrong">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dereklarmstrong">
-<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/dereklarmstrong">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dereklarmstrong"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/dereklarmstrong">
+</div>
 
 <div align="left">
-
   <img  src="./imgs/working-and-creating.gif" height="300px" align="right" />
 </div>
 
