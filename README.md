@@ -7,7 +7,7 @@
 </div>
 <br>
 <img  src="./imgs/working-and-creating.gif" height="175px" align="right" />
-<br>
+
 
 I'm your go-to guy for turning tech ideas into reality. Tech's my playground – from architectural designs, crafting code or deploying at scale in the cloud. I love unraveling tech puzzles and believe there is always multiple solutions to any problem. But it's not just about building something or fixing things. It's about finding the optimal performance through practical simplicity that scales with the least amount of maintenance and cost. That way you can focus on building more **awesome** stuff!
 
