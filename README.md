@@ -17,7 +17,7 @@ I'm your go-to guy for turning tech ideas into reality. Tech's my playground –
 - Combining trusted battle tested tech with new ideas for something awesome.
 - Experimenting in my home labs and cloud playgrounds.
 
-## 🤝 **Let's Connect:**
+## 🔗 **Let's Connect:**
 
 Got a tech puzzle or just want to chat about the latest in tech? Swing by my site or hit me up on socials. Let's collaborate and make things happen!
 
