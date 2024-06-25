@@ -24,9 +24,6 @@ I love unraveling tech puzzles and believe there is always multiple solutions to
   <!-- <a href="https://pytech.dev/" target="_blank"><img alt="PyTech.com" src="https://img.shields.io/badge/PyTech.Dev-44709f.svg?&style=for-the-badge&logo=python&logoColor=yellow" height="30px" /></a> -->
   <!-- <a href="https://twitter.com/dereklarmstrong" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> -->
   <a href="https://www.linkedin.com/in/dereklarmstrong/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-  <a href="https://www.threads.net/@dereklarmstrong" target="_blank"><img alt="Threads" src="https://img.shields.io/badge/Threads-101010?style=for-the-badge&logo=threads&logoColor=white"  height="30px"/></a>
-  <a href="https://www.instagram.com/dereklarmstrong" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-a30765?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-  <a href="https://www.facebook.com/dereklarmstrong" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/></a>
 </p>
 
 <div align="center">
