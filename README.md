@@ -17,14 +17,7 @@ I love unraveling tech puzzles and believe there is always multiple solutions to
 - Combining trusted battle tested tech with new ideas for something awesome.
 - Experimenting in my home labs and cloud playgrounds.
 
-🤝 Let’s Connect: Got a tech puzzle? Curious about the latest trends? Swing by my site or hit me up on socials. Collaboration fuels innovation, and together, we’ll make magic happen!
-
-<p>
-  <a href="https://dereklarmstrong.com/" target="_blank"><img alt="DerekLArmstrong.com" src="https://img.shields.io/badge/DerekLArmstrong.com-005c99?style=for-the-badge&logo=hashnode&logoColor=white"  height="30px"/>
-  <!-- <a href="https://pytech.dev/" target="_blank"><img alt="PyTech.com" src="https://img.shields.io/badge/PyTech.Dev-44709f.svg?&style=for-the-badge&logo=python&logoColor=yellow" height="30px" /></a> -->
-  <!-- <a href="https://twitter.com/dereklarmstrong" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> -->
-  <a href="https://www.linkedin.com/in/dereklarmstrong/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-</p>
+🤝 Let’s Connect: Got a tech puzzle? Curious about the latest trends? Collaboration fuels innovation, and together, we’ll make magic happen! Check my profile for my socials and blog site.
 
 <div align="center">
   <br>
