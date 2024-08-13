@@ -17,7 +17,7 @@ I love unraveling tech puzzles and believe there is always multiple solutions to
 - Combining trusted battle tested tech with new ideas for something awesome.
 - Experimenting in my home labs and cloud playgrounds.
 
-🤝 Let’s Connect: Got a tech puzzle? Curious about the latest trends? Collaboration fuels innovation, and together, we’ll make magic happen! Check my profile for my socials and blog site.
+🤝 Let’s Connect: Got a tech puzzle? Curious about the latest trends? Collaboration fuels innovation, and together, we’ll make magic happen! Check my profile for my blog site and socials.
 
 <div align="center">
   <br>
