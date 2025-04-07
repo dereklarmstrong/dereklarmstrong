@@ -13,7 +13,7 @@ I love unraveling tech puzzles and believe there is always multiple solutions to
 
 
 ### 🍓 **What's My Jam:**
-- Staying on top of the latest trends in software development, DevOps tools and cloud advancements.
+- Staying on top of the latest trends in software development, DevOps tools and AI advancements.
 - Combining trusted battle tested tech with new ideas for something awesome.
 - Experimenting in my home labs and cloud playgrounds.
 
